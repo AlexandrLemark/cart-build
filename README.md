@@ -1,7 +1,6 @@
 <p align="center">
-      <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVlaTNsenpsZzF4eGMxNTE4ajdsMW1uaG52eG04aWIxdmtqaGVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KlKhrRmGuDURcJnEvp/giphy.gif' width="200">
+      <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVlaTNsenpsZzF4eGMxNTE4ajdsMW1uaG52eG04aWIxdmtqaGVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KlKhrRmGuDURcJnEvp/giphy.gif' width="150" >
 </p>
-
 
 ## О проекте
 
